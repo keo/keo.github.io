@@ -45,8 +45,8 @@
 
 # Socials
 
-(https://x.com/keo)[X: @keo]  
-(https://warpcast.com/keo604)[Warpcast: @keo604]  
-(https://www.linkedin.com/in/bdebreczeni/)[LinkedIn]  
-(https://github.com/keo)[GitHub: @keo]  
+[X: @keo](https://x.com/keo)  
+[Warpcast: @keo604](https://warpcast.com/keo604)  
+[LinkedIn](https://www.linkedin.com/in/bdebreczeni/)  
+[GitHub: @keo](https://github.com/keo)  
 
