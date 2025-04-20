@@ -28,12 +28,12 @@ twitter_username: keo
 github_username:  keo
 
 # Build settings
-theme: no-style-please
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
+# theme: no-style-please
+# plugins:
+#   - jekyll-relative-links
+# relative_links:
+#   enabled: true
+#   collections: true
 include:
   - index.md
 
