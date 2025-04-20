@@ -1,10 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-permalink: /
----
 
 # Things I value:
 • **Human connections** – Honesty, Empathy, Love
@@ -56,5 +49,5 @@ permalink: /
 [https://x.com/keo](X: @keo)
 [https://warpcast.com/keo604](Warpcast: @keo604)
 [https://www.linkedin.com/in/bdebreczeni/](LinkedIn)
-
+[https://github.com/keo](GitHub)
 
