@@ -32,7 +32,7 @@
 
 • Co-founded [Reaction](https://reaction.global) with Stanford Executive Program classmates—a VC fund focused on solving important problems.
 
- # What I’m currently working on:
+# What I’m currently working on:
 
 • For the past 15 years, my focus has been on exiting the legacy system and helping others do the same
 
