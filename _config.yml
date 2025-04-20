@@ -30,8 +30,12 @@ github_username:  keo
 # Build settings
 theme: no-style-please
 plugins:
-  - jekyll-feed
-
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
